@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
+| [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
 | [0912-sort-an-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -56,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

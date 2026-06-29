@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

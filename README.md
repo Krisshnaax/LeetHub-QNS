@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
+| [0704-binary-search](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0435-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

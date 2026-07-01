@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0088-merge-sorted-array) |
+| [0876-middle-of-the-linked-list](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Krisshnaax/LeetHub-QNS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
